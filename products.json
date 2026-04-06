@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 12.99,
+    "category": "Pizza",
+    "stock": 50,
+    "available": true,
+    "image": "🍕"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Wings",
+    "price": 9.99,
+    "category": "Appetizer",
+    "stock": 100,
+    "available": true,
+    "image": "🍗"
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "price": 7.99,
+    "category": "Salad",
+    "stock": 30,
+    "available": true,
+    "image": "🥗"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Cake",
+    "price": 5.99,
+    "category": "Dessert",
+    "stock": 20,
+    "available": true,
+    "image": "🍰"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@restaurant.com",
+    "password": "admin123",
+    "role": "admin",
+    "createdAt": "2026-04-05T09:03:06.337Z"
+  },
+  {
+    "id": 2,
+    "name": "John Customer",
+    "email": "customer@test.com",
+    "password": "customer123",
+    "role": "customer",
+    "createdAt": "2026-04-05T09:03:06.338Z"
+  }
+]
